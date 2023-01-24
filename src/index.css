@@ -1,0 +1,12 @@
+body {
+  margin: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  line-height: 25px;
+}
+
+.pl-3 {
+  padding-left: 30px;
+}
